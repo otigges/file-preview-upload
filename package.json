@@ -1,0 +1,25 @@
+{
+  "name": "file-preview-upload",
+  "version": "1.0.0",
+  "description": "Plain JavaScript lib for preview and upload of images and documents. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otigges/file-preview-upload.git"
+  },
+  "keywords": [
+    "upload",
+    "image",
+    "preview",
+    "documents"
+  ],
+  "author": "Oliver Tigges",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/otigges/file-preview-upload/issues"
+  },
+  "homepage": "https://github.com/otigges/file-preview-upload#readme"
+}
